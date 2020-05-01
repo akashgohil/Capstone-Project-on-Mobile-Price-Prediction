@@ -1,10 +1,10 @@
 # Capstone-Project-on-Mobile-Price-Prediction
 
 Group member
-1. Rahul Patel(Leader)
+1. Rahul Patel
 2. Akash Gohil
 3. Samyak Saraiya
 
-# Problem statement - Analysis on Model Price Prediction
+# Problem statement - Analysis on Mobile Price Prediction
 
-In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile
+Our goal of this capstone project was, How well can we predict the price range of mobile, given its characteristics and previous example of how much phone have been sold on the basis of its characteristics. we will not predict actual price but a price range indicating how high the price is.
